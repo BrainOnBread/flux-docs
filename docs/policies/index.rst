@@ -7,3 +7,4 @@ Policies
 
    non-censorship_policy
    revocation_requests
+   campaign advertising 2018
